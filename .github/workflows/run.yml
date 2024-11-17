@@ -1,6 +1,5 @@
 name: Cloud check in action
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
